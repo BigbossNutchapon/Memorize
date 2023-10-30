@@ -1,7 +1,7 @@
 # Memory Game
 This code is for creating a memory card game using SwiftUI with three themes: Halloween, Animals, and Sports. 
 
-## Author<br>&emsp;
+## Author
   **Nutchapon Kitkram** (ID: 6410742156)
 
 ## Video Demo
