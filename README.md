@@ -1,9 +1,12 @@
 # Memory Game
+This code is for creating a memory card game using SwiftUI with three themes: Halloween, Animals, and Sports. 
 
-**Author:** <br>&emsp;
-  Nutchapon Kitkram 6410742156
+## Author<br>&emsp;
+  **Nutchapon Kitkram** (ID: 6410742156)
 
-You can watch a video demo of the game [here]([https://github.com/BigbossNutchapon/sf333as1/assets/88434297/b83177a1-557b-4f8a-af76-6ecb47a4e4a1](https://github.com/BigbossNutchapon/Memorize/assets/88434297/518e8cb9-1914-4c42-a6ca-465c2124486e)).
-Video demo
-https://github.com/BigbossNutchapon/Memorize/assets/88434297/518e8cb9-1914-4c42-a6ca-465c2124486e
+## Video Demo
+https://github.com/BigbossNutchapon/Memorize/assets/88434297/d4d5303c-b782-45b8-aef7-1929c72bdf56
 
+## Picture Demo
+![Screenshot 2023-10-30 212806](https://github.com/BigbossNutchapon/Memorize/assets/88434297/037e0104-505b-4001-96fd-fcdb63695336)
+![Screenshot 2023-10-30 212740](https://github.com/BigbossNutchapon/Memorize/assets/88434297/30d4f0fa-1953-4cf3-ade8-3dd4d34df03c)
